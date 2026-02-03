@@ -1,33 +1,69 @@
-# Hello, I'm Koffi Didier Guinwogbegno  
+# Hello, I'm Koffi Didier Guinwogbegno 
 
-💻 **Software Technician | Aspiring Software Engineer**  
-🎓 Currently studying at **IPNET Institute of Technology (Togo)**  
-🌍 Passionate about **web & mobile development, aerospace software engineering, and emerging technologies**  
-
----
-
-## 🧑‍💻 About Me
-- 🌍 I build **digital solutions** that solve real-world problems  
-- 💡 Interests: **Cybersecurity, Quantum Computing, Aerospace Systems**  
-- 🔨 Tech Stack: **Java, JavaScript, PHP, HTML, CSS, React, Symfony, Laravel, Expo**  
-- 📡 Working on projects in **healthcare** and **telecom**  
-- 🌱 Currently learning:  
-  - Advanced JavaScript & modern frameworks  
-  - Software development best practices  
-  - Open-source collaboration  
+ **Software Technician | AI Student | Aspiring Software Engineer**
+ **BSc Student in Artificial Intelligence** – IPNET Institute of Technology (Togo)
+ Passionate about **web & mobile development, aerospace software engineering, and emerging technologies**
+ Future-oriented developer focused on **impact, innovation, and excellence**
 
 ---
 
-## 🚀 Featured Projects
-- 🍽️ **Maison de la République (Restaurant App)** – *Mobile app (Expo + Laravel API) for ordering & delivery*  
-- 🏥 **Emergency Medical Management** – *React + Symfony app for online doctor consultations, pharmacies & hospitals nearby*  
-- 🛒 **Archipel Duty-Free** – *E-commerce website built with WordPress + WooCommerce*  
+##  About Me
 
-🔗 *Check out more in my [repositories](https://github.com/70-didier?tab=repositories).*  
+*  I build **digital solutions** that solve real-world African and global problems
+*  Strong interests in **Cybersecurity, Quantum Computing, Aerospace Systems, and AI**
+*  Vision: Become a **high-level software engineer** working in international tech & aerospace industries
+*  Open to **collaboration, research projects, startups, and open-source**
+*  Lifelong learner with a strong focus on **engineering rigor & clean architecture**
 
 ---
 
-## ⚡ Tech & Tools
+## 🔨 Tech Stack
+
+**Languages:**
+Java • JavaScript • PHP • Python • HTML • CSS
+
+**Frameworks & Tools:**
+React • Symfony • Laravel • Expo • WordPress • WooCommerce
+
+**Other Skills:**
+Git • Docker • API Design • System Architecture • Agile Development
+
+---
+
+##  Currently Learning
+
+* Advanced JavaScript & modern frontend architectures
+* Software engineering best practices
+* Artificial Intelligence & Machine Learning fundamentals
+* Open-source collaboration workflows
+* Secure systems & cybersecurity fundamentals
+
+---
+
+##  Featured Projects
+
+###  Maison de la République (Restaurant App)
+
+**Tech:** Expo + Laravel API
+ Mobile application for food ordering, delivery & restaurant management
+
+###  Emergency Medical Management System
+
+**Tech:** React + Symfony
+ Platform for online doctor consultations, pharmacies & nearby hospitals detection
+
+###  Archipel Duty-Free
+
+**Tech:** WordPress + WooCommerce
+ E-commerce website for duty-free product sales
+
+🔗 *Explore more projects in my repositories:*
+ [https://github.com/70-didier?tab=repositories](https://github.com/70-didier?tab=repositories)
+
+---
+
+##  Tech & Tools
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
@@ -41,10 +77,13 @@
 
 ---
 
-## 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/koffi-didier-guinwogbegno)  
-- 💻 [GitHub](https://github.com/70-didier)  
+##  Connect with Me
+
+* 🔗 LinkedIn: [https://www.linkedin.com/in/koffi-didier-guinwogbegno](https://www.linkedin.com/in/koffi-didier-guinwogbegno)
+*  GitHub: [https://github.com/70-didier](https://github.com/70-didier)
 
 ---
 
-⭐ *“Keep learning, keep building, and stay humble.”*  
+ *“Discipline. Vision. Consistency. Impact.”*
+
+> Keep learning, keep building, and stay humble.
