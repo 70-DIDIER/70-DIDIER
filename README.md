@@ -17,7 +17,7 @@
 
 ---
 
-## 🔨 Tech Stack
+##  Tech Stack
 
 **Languages:**
 Java • JavaScript • PHP • Python • HTML • CSS
